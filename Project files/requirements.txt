@@ -1,0 +1,5 @@
+Flask==1.0.2
+Flask-SQLAlchemy==2.3.2
+gunicorn==19.8.1
+SQLAlchemy==1.2.9
+pg8000==1.15.2
